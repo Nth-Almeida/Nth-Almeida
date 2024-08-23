@@ -60,3 +60,6 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&gradient=black,navy,orange&gradientStops=0,0.5,1"/>
+
+
+![Snake animation](https://github.com/Nth-Almeida/Nth-Almeida/blob/output/github-contribution-grid-snake.svg)
