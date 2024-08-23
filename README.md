@@ -54,8 +54,8 @@
   <a href="mailto:nathanvk.ti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathanlopesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/seuinstagram/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/SeuNumero" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2377A84C?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/SeuID" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23803E8C?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/11971215014" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2377A84C?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/476154471798276108" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23803E8C?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
 
 
