@@ -19,8 +19,8 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 100px; margin-bottom:100px;">
-  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com?user=Nth-Almeida&theme=synthwave&mode=weekly" alt="GitHub Streak" />
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nth-Almeida&show_icons=true&theme=synthwave&layout=compact" alt="Top Languages" />
+  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com?user=Nth-Almeida&theme=codeSTACKr" alt="GitHub Streak" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nth-Almeida&show_icons=true&theme=codeSTACKr&layout=compact" alt="Top Languages" />
 </div>
 
 
