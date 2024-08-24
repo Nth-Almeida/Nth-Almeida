@@ -16,12 +16,8 @@
     Bem-vindo ao meu perfil! 🌟
 </h3>
 
-<h1 align="center" style="color: #8a2be2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-
-
-
 <p align="center" style="font-size: 18px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ffffff; max-width: 80%; margin: 0 auto;">
- <h4> Atuo como estudante de Tecnologia da Informação no Eniac e estou cursando Análise e Desenvolvimento de Sistemas na Onebitcode. 🚀 </h4>
+  <h4>Atuo como estudante de Tecnologia da Informação no Eniac e estou cursando Análise e Desenvolvimento de Sistemas na Onebitcode. 🚀</h4>
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-bottom:10px;">
@@ -29,10 +25,9 @@
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nth-Almeida&show_icons=true&theme=codeSTACKr&layout=compact" alt="Top Languages" />
 </div>
 
-
 <h2 align="center" style="color: #8a2be2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-Minhas Habilidades 
-
+  Minhas Habilidades
+</h2>
 
 #### Stack Principal:
 
@@ -44,6 +39,8 @@ Minhas Habilidades
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -59,18 +56,27 @@ Minhas Habilidades
 
 #### Contatos:
 
-<div> 
-  <a href="mailto:nathanvk.ti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathanlopesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/11971215014" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2377A84C?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/users/476154471798276108" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-%230072B1?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-</a>
-
-
-</div>&nbsp;&nbsp;
+<div align="center">
+  <a href="mailto:nathanvk.ti@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/nathanlopesdev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://wa.me/11971215014" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2377A84C?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discord.com/users/476154471798276108" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-%230072B1?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&gradient=black,navy,orange&gradientStops=0,0.5,1"/>
 
 ![Snake animation](https://github.com/Nth-Almeida/Nth-Almeida/blob/output/github-contribution-grid-snake.svg)
+
+![Gatsby Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Nth-Almeida&repo=nome-do-repo&theme=vision-friendly-dark)
+
