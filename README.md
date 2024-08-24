@@ -1,5 +1,10 @@
-<h1 align="center">Olá, Eu Sou o Nathan Almeida! 👨‍💻</h1>
-<h3 align="center">Estudante de TI no Eniac | Apaixonado por Desenvolvimento e Tecnologia</h3>
+<h1 align="center" style="color: #8a2be2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <a href="https://git.io/typing-svg" style="text-decoration: none; color: inherit;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1%2C+Eu+Sou+o+Nathan+Almeida!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
+</h1>
+
+<h2 align="center">Estudante de TI no Eniac | Apaixonado por Desenvolvimento e Tecnologia</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nth-Almeida&style=flat-square&color=blue" alt="Profile views" />
@@ -7,12 +12,16 @@
 
 <img align="center" style="margin-bottom:50px; object-fit: contain" width="100%" src="URL_DA_IMAGEM_AQUI" />
 
-<h2 align="center" style="color: #8a2be2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Olá, me chamo Nathan! 🌟
-</h2>
+<h3 align="center" style="color: #8a2be2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    Bem-vindo ao meu perfil! 🌟
+</h3>
+
+<h1 align="center" style="color: #8a2be2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+
+
 
 <p align="center" style="font-size: 18px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ffffff; max-width: 80%; margin: 0 auto;">
-  Atuo como estudante de Tecnologia da Informação no Eniac e estou cursando Análise e Desenvolvimento de Sistemas na Onebitcode. 🚀
+ <h4> Atuo como estudante de Tecnologia da Informação no Eniac e estou cursando Análise e Desenvolvimento de Sistemas na Onebitcode. 🚀 </h4>
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-bottom:10px;">
