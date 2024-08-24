@@ -20,7 +20,10 @@
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nth-Almeida&show_icons=true&theme=codeSTACKr&layout=compact" alt="Top Languages" />
 </div>
 
-## Minhas Habilidades
+
+<h2 align="center" style="color: #8a2be2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+Minhas Habilidades 
+
 
 #### Stack Principal:
 
@@ -52,7 +55,11 @@
   <a href="https://www.linkedin.com/in/nathanlopesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/11971215014" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2377A84C?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/476154471798276108" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23803E8C?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/users/476154471798276108" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-%230072B1?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+</a>
+
+
 </div>&nbsp;&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&gradient=black,navy,orange&gradientStops=0,0.5,1"/>
