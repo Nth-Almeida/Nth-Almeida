@@ -79,7 +79,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&gradient=black,navy,orange&gradientStops=0,0.5,1"/>
 
-![Snake animation](https://github.com/Nth-Almeida/Nth-Almeida/blob/output/github-contribution-grid-snake.svg)
+[![InfinityStore](https://github-readme-stats.vercel.app/api/pin/?username=Nth-Almeida&repo=InfinityStore&theme=great-gatsby)](https://github.com/Nth-Almeida/InfinityStore)
+
+[![CFM](https://github-readme-stats.vercel.app/api/pin/?username=Nth-Almeida&repo=CFM&theme=great-gatsby)](https://github.com/Nth-Almeida/CFM)
 
 
 
