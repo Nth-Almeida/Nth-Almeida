@@ -20,10 +20,13 @@
   <h4>Atuo como estudante de Tecnologia da Informação no Eniac e estou cursando Análise e Desenvolvimento de Sistemas na Onebitcode. 🚀</h4>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-bottom:10px;">
-  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com?user=Nth-Almeida&theme=codeSTACKr" alt="GitHub Streak" />
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nth-Almeida&show_icons=true&theme=codeSTACKr&layout=compact" alt="Top Languages" />
-</div>
+<a href="https://github.com/Nth-Almeida">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nth-Almeida&show_icons=true&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/Nth-Almeida">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nth-Almeida&layout=compact&langs_count=8&card_width=320&theme=vision-friendly-dark" />
+</a>
+
 
 <h2 align="center" style="color: #8a2be2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   Minhas Habilidades
@@ -78,5 +81,7 @@
 
 ![Snake animation](https://github.com/Nth-Almeida/Nth-Almeida/blob/output/github-contribution-grid-snake.svg)
 
-![Gatsby Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Nth-Almeida&repo=nome-do-repo&theme=vision-friendly-dark)
+
+
+
 
