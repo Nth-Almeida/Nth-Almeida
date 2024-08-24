@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Nth-Almeida&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
-<img align="center" style="margin-bottom:50px; object-fit: contain" width="100%" src="" />
+<img align="center" style="margin-bottom:50px; object-fit: contain" width="100%" src="URL_DA_IMAGEM_AQUI" />
 
 <h2 align="center" style="color: #8a2be2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   Olá, me chamo Nathan! 🌟
@@ -15,14 +15,10 @@
   Atuo como estudante de Tecnologia da Informação no Eniac e estou cursando Análise e Desenvolvimento de Sistemas na Onebitcode. 🚀
 </p>
 
-
-
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 1px; margin-bottom:1px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-bottom:10px;">
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com?user=Nth-Almeida&theme=codeSTACKr" alt="GitHub Streak" />
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nth-Almeida&show_icons=true&theme=codeSTACKr&layout=compact" alt="Top Languages" />
 </div>
-
 
 ## Minhas Habilidades
 
@@ -32,6 +28,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -53,13 +50,11 @@
 <div> 
   <a href="mailto:nathanvk.ti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathanlopesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/seuinstagram/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/11971215014" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2377A84C?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/476154471798276108" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23803E8C?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&gradient=black,navy,orange&gradientStops=0,0.5,1"/>
-
 
 ![Snake animation](https://github.com/Nth-Almeida/Nth-Almeida/blob/output/github-contribution-grid-snake.svg)
