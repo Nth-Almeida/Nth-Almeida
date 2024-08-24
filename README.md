@@ -81,7 +81,6 @@
 
 [![InfinityStore](https://github-readme-stats.vercel.app/api/pin/?username=Nth-Almeida&repo=InfinityStore&theme=great-gatsby)](https://github.com/Nth-Almeida/InfinityStore)
 
-[![CFM](https://github-readme-stats.vercel.app/api/pin/?username=Nth-Almeida&repo=CFM&theme=great-gatsby)](https://github.com/Nth-Almeida/CFM)
 
 
 
