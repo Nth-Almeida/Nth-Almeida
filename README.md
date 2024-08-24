@@ -18,8 +18,8 @@
 
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 100px; margin-bottom:100px;">
-  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com?user=Nth-Almeida&theme=codeSTACKr" alt="GitHub Streak" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 1px; margin-bottom:1px;">
+  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com?user=Nth-Almeida&theme=codeSTACKr" alt="GitHub Streak" />
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nth-Almeida&show_icons=true&theme=codeSTACKr&layout=compact" alt="Top Languages" />
 </div>
 
