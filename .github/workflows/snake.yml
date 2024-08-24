@@ -1,0 +1,40 @@
+name: Generate Snake Animation
+
+on:
+  schedule: # Executa o workflow diariamente
+    - cron: "0 0 * * *" # Define o cronograma para 00:00 UTC diariamente
+  workflow_dispatch: # Permite a execução manual do workflow
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Baixa o repositório
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # Configura Python
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      # Instala as dependências
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Gera a cobrinha
+      - name: Generate Snake
+        run: |
+          git clone https://github.com/Platane/snk.git
+          cd snk
+          python3 main.py --output ../output/github-contribution-grid-snake.svg --user Nth-Almeida
+          
+      # Envia o arquivo gerado para o repositório
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Generated snake animation"
+          git push
