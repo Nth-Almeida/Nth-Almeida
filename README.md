@@ -7,7 +7,7 @@
 <img align="center" style="margin-bottom:10px; object-fit: contain" width="100%" height="auto" src="https://drive.google.com/uc?export=view&id=11gTFmvnzWSfAZC38IcI4-9l008HE7jQj" />
 
 
-<h2 align="center">Estudante de TI no Eniac | Apaixonado por Desenvolvimento e Tecnologia</h2>
+<h2 align="center">Aficionado por Programação e Avanços Tecnológicos</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nth-Almeida&style=flat-square&color=blue" alt="Profile views" />
@@ -25,7 +25,7 @@
 
 
 <p align="center" style="font-size: 18px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ffffff; max-width: 80%; margin: 0 auto;">
- <h4> Atuo como estudante de Tecnologia da Informação no Eniac e estou cursando Análise e Desenvolvimento de Sistemas na Onebitcode. 🚀 </h4>
+ <h4>Estou em formação em Tecnologia da Informação no Eniac e cursando Análise e Desenvolvimento de Sistemas na Onebitcode, sempre em busca de evolução e inovação. 🚀</h4>
 </p>
 
 <a href="https://github.com/Nth-Almeida">
