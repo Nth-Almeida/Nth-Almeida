@@ -4,13 +4,17 @@
   </a>
 </h1>
 
+<img align="center" style="margin-bottom:10px; object-fit: contain" width="90%" height="auto" src="https://drive.google.com/uc?export=view&id=11gTFmvnzWSfAZC38IcI4-9l008HE7jQj" />
+
+
 <h2 align="center">Estudante de TI no Eniac | Apaixonado por Desenvolvimento e Tecnologia</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nth-Almeida&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
-<img align="center" style="margin-bottom:50px; object-fit: contain" width="100%" src="URL_DA_IMAGEM_AQUI" />
+
+
 
 <h3 align="center" style="color: #8a2be2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     Bem-vindo ao meu perfil! 🌟
@@ -80,5 +84,8 @@ Minhas Habilidades
 
 ![Snake animation](https://github.com/Nth-Almeida/Nth-Almeida/blob/output/github-contribution-grid-snake.svg)
 
-[![InfinityStore](https://github-readme-stats.vercel.app/api/pin/?username=Nth-Almeida&repo=InfinityStore&theme=great-gatsby)](https://github.com/Nth-Almeida/InfinityStore)
+[![CFM](https://github-readme-stats.vercel.app/api/pin/?username=Nth-Almeida&repo=CFM&show_owner=true&theme=great-gatsby)](https://github.com/Nth-Almeida/CFM)
+
+
+
 
