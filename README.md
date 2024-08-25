@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<img align="center" style="margin-bottom:10px; object-fit: contain" width="90%" height="auto" src="https://drive.google.com/uc?export=view&id=11gTFmvnzWSfAZC38IcI4-9l008HE7jQj" />
+<img align="center" style="margin-bottom:10px; object-fit: contain" width="100%" height="auto" src="https://drive.google.com/uc?export=view&id=11gTFmvnzWSfAZC38IcI4-9l008HE7jQj" />
 
 
 <h2 align="center">Estudante de TI no Eniac | Apaixonado por Desenvolvimento e Tecnologia</h2>
